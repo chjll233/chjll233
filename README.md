@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **3339651474@qq.com**
 
-- ⚡ interesting  **术力口**
+- ⚡ like  **术力口**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
