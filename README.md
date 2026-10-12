@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=F7A8C4&center=true&width=760&lines=I%27m+Chjll,+an+average+CS+sophomore" alt="Typing SVG" />
 </p>
 
-**🎂 Born 12.17** &nbsp;·&nbsp; **📍 Now Base in Guangzhou**
+**🎂 Born 2006.12.17** &nbsp;·&nbsp; **📍 Now Base in Guangzhou**
 
 **「想只以真实的情感活一次看看」** · 素直な気持ちだけで生きてみたい
 
