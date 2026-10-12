@@ -1,22 +1,47 @@
-# Hi 👋, I'm cjj
+### 👋 你好，我是 CJJ
 
-### 一名探索后端的计算机学生
+**一名普通计算机大二生 · 少女乐队爱好者**
 
-- 🔭 I'm currently working on **JavaWeb 项目开发，练习数据库与后端接口**
+- 🔭 目前正在学习 JavaWeb 项目开发，练习数据库与后端接口
+- 🤝 正在寻找提升项目实战能力的帮助
+- 📫 联系我：`3339651474@qq.com`
+- ⚡ 爱好：少女乐队 / 二次元 / 游戏 / 音乐
 
-- 👯 I'm looking to collaborate on **开源爱好者交流代码**
+---
 
-- 🤝 I'm looking for help with **提升项目实战能力**
+## 📫 与我联系
 
-- 📫 How to reach me **3339651474@qq.com**
-
-- ⚡ love  **术力口**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/chjll233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="chjll233" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:3339651474@qq.com">
+    <img src="https://img.shields.io/badge/-Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/chjll233">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a></p>
+---
 
+## 🛠️ 语言与工具
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Java-FF6B6B?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=chjll233&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chjll233&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chjll233&theme=tokyonight" alt="streak" />
+</p>
