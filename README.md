@@ -1,18 +1,15 @@
 <div align="center">
 
-# 🧸 I'm CJJ，普通计算机大二生
-
-### 🎸 少女乐队爱好者 · 正在学习后端开发
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=F7A8C4&center=true&width=620&lines=%E6%99%AE%E9%80%9A%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%A4%A7%E4%BA%8C%E7%94%9F;%E5%B0%91%E5%A5%B3%E4%B9%90%E9%98%9F%E7%88%B1%E5%A5%BD%E8%80%85;%E6%AD%A3%E5%9C%A8%E5%AD%A6%E4%B9%A0%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=F7A8C4&center=true&width=760&lines=I%27m+Chjll,+an+average+CS+sophomore" alt="Typing SVG" />
 </p>
 
 **🎂 Born 12.17** &nbsp;·&nbsp; **📍 Now Base in Guangzhou**
 
-**「慢慢急，不要来」** · 在 0 与 1 之间寻找心跳的节奏
+**「想只以真实的情感活一次看看」** · 素直な気持ちだけで生きてみたい
 
 </div>
+
 
 ---
 
@@ -80,12 +77,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=chjll233&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chjll233&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=chjll233&show_icons=true&theme=radical&rank_icon=github&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chjll233&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chjll233&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chjll233&theme=radical" alt="streak" />
 </p>
 
 ---
